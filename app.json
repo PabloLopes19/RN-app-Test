@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31185825-d724-4266-827b-4438b6d3e89f"
+      }
+    },
+    "owner": "pablolopes19"
   }
 }
